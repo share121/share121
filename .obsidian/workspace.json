@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +174,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bdeaf73c40025aac",
+  "active": "00d12691c8309876",
   "lastOpenFiles": [
     "未命名.md",
     "README.md",
