@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "tabSize": 2,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./附件"
+}
