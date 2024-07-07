@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "超级书签.md",
-                "mode": "preview",
+                "file": "super-mark.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "超级书签.md",
+                "file": "super-mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "超级书签.md",
+                "file": "super-mark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "超级书签.md"
+                "file": "super-mark.md"
               }
             }
           },
@@ -177,7 +177,7 @@
   "active": "ebf80cc2229fce33",
   "lastOpenFiles": [
     "README.md",
-    "超级书签.md",
+    "super-mark.md",
     "未命名"
   ]
 }
