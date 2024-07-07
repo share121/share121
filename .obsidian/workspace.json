@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "超级书签.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "超级书签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "超级书签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "超级书签.md"
               }
             }
           },
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +174,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "00d12691c8309876",
+  "active": "ebf80cc2229fce33",
   "lastOpenFiles": [
-    "未命名.md",
     "README.md",
+    "超级书签.md",
     "未命名"
   ]
 }
