@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "super-mark.md",
+                "file": "super-bookmarks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "super-mark.md",
+                "file": "super-bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "super-mark.md",
+                "file": "super-bookmarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "super-mark.md"
+                "file": "super-bookmarks.md"
               }
             }
           },
@@ -177,7 +177,7 @@
   "active": "ebf80cc2229fce33",
   "lastOpenFiles": [
     "README.md",
-    "super-mark.md",
+    "super-bookmarks.md",
     "未命名"
   ]
 }
